@@ -1,0 +1,2 @@
+(this.webpackJsonpdtmoney=this.webpackJsonpdtmoney||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),s=n(3),d=n.n(s),o=n(0);function a(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("h1",{children:"Essa merda ta rodando!"})})}d.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.f7edcb38.chunk.js.map
