@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.f7edcb38.chunk.js",
-    "main.js.map": "/static/js/main.f7edcb38.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e36413dd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e36413dd.js.map",
-    "static/js/2.25329b89.chunk.js": "/static/js/2.25329b89.chunk.js",
-    "static/js/2.25329b89.chunk.js.map": "/static/js/2.25329b89.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.25329b89.chunk.js.LICENSE.txt": "/static/js/2.25329b89.chunk.js.LICENSE.txt"
+    "main.css": "/Proffy---Platafoma-de-Aulas/static/css/main.da08d35a.chunk.css",
+    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.74326d4f.chunk.js",
+    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.74326d4f.chunk.js.map",
+    "runtime-main.js": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js",
+    "runtime-main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js.map",
+    "static/js/2.81d59e1f.chunk.js": "/Proffy---Platafoma-de-Aulas/static/js/2.81d59e1f.chunk.js",
+    "static/js/2.81d59e1f.chunk.js.map": "/Proffy---Platafoma-de-Aulas/static/js/2.81d59e1f.chunk.js.map",
+    "index.html": "/Proffy---Platafoma-de-Aulas/index.html",
+    "static/css/main.da08d35a.chunk.css.map": "/Proffy---Platafoma-de-Aulas/static/css/main.da08d35a.chunk.css.map",
+    "static/js/2.81d59e1f.chunk.js.LICENSE.txt": "/Proffy---Platafoma-de-Aulas/static/js/2.81d59e1f.chunk.js.LICENSE.txt",
+    "static/media/give-classes.a6e3fd8d.svg": "/Proffy---Platafoma-de-Aulas/static/media/give-classes.a6e3fd8d.svg",
+    "static/media/landing.12dc888d.svg": "/Proffy---Platafoma-de-Aulas/static/media/landing.12dc888d.svg",
+    "static/media/logo.29ffb1ae.svg": "/Proffy---Platafoma-de-Aulas/static/media/logo.29ffb1ae.svg",
+    "static/media/purple-heart.f9c387fc.svg": "/Proffy---Platafoma-de-Aulas/static/media/purple-heart.f9c387fc.svg",
+    "static/media/study.60518e96.svg": "/Proffy---Platafoma-de-Aulas/static/media/study.60518e96.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e36413dd.js",
-    "static/js/2.25329b89.chunk.js",
-    "static/js/main.f7edcb38.chunk.js"
+    "static/js/runtime-main.f5c32519.js",
+    "static/js/2.81d59e1f.chunk.js",
+    "static/css/main.da08d35a.chunk.css",
+    "static/js/main.74326d4f.chunk.js"
   ]
 }
