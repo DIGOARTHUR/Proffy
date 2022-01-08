@@ -1,5 +1,6 @@
 {
-  "name": "dtmoney",
+  "homepage": "http://digoarthur.github.io/Proffy---Platafoma-de-Aulas",
+  "name": "proffy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,9 +23,12 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-modal": "^3.13.1",
     "@types/styled-components": "^5.1.17",
+    "gh-pages": "^3.2.3",
     "typescript": "^4.1.2"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

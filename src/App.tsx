@@ -1,12 +1,18 @@
+import React from 'react';
 
-export function App (){
+/*Importação CSS global*/ 
+import './assets/styles/global.css'
+import { Landing } from './pages/Landing';
+
+ function App (){
   return (
     <>
 
-     <h1>Essa merda ta rodando!</h1>
+     <Landing/>
 
     </>
   );
 
   }
 
+  export default App;

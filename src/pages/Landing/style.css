@@ -1,0 +1,168 @@
+
+/***********************************/
+        /*TELA  < 1100PX*   MOBILE/ 
+/***********************************/
+#page-landing {
+    /***********************************/
+    /*PRENCHIMENTO DIV*/
+    /***********************************/
+    width: 100vw; /*Ocupa 100% espaço horizontal*/
+    height: 100vh;/*Ocupa 100% espaço vertical*/
+
+    /***********************************/
+    /*CENTRALIZAR ELEMENTOS FILHOS*/
+    /***********************************/
+    display: flex; /*Deixa os elementos filhos flexíveis*/
+    justify-content: center; /*Centraliza elemento horizontalmente*/
+    align-items: center; /*Centraliza elemento verticalmente*/
+
+    /***********************************/
+    /*APLICANDO CORES*/
+    /***********************************/
+    color: var(--color-text-in-primary);
+    background-color: var(--color-primary);
+
+}
+
+
+
+.logo-container{
+    text-align: center; /*Centraliza horizoltamente o texto do elemento*/
+    margin-bottom: 3.2rem;/*Margem externa no Bottom do elemento*/
+}
+
+.logo-container img{
+    height: 10rem; /*Altura {logo-img} container*/
+}
+
+.logo-container h2{
+    font-weight: 500; /*Preenchimento da fonte*/
+    font-size: 2.4rem; /*Tamanho fonte*/
+    line-height: 4.6rem; /*Espaçamento entre linhas de texto*/
+    margin-top: 0.8rem; /*Margem externa -TOP- do elemento*/
+}
+
+.hero-image{   
+    width: 100%; /*Ocupa 100% do tamanho do dispositivo detectado, ultrapassar o tamanho da tela em uso*/
+}
+
+
+.buttons-container{
+    display: flex; 
+    justify-content: center;
+    margin: 3.2rem 0; /*Margem externa -TOP BOTTOM-  -RIGHT LEFT- */
+}
+
+.buttons-container a {
+    width: 30rem;
+    height: 10.4rem;
+    border-radius: 0.8rem;
+    
+    font: 700 2.0rem Archivo; /*Preenchimento fonte - Tamanho fonte - Fonte*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none; /*Retira o sublinhado do text da tag <a>*/
+    color:var(--color-button-text);
+
+   transition:background-color 0.3s
+}
+.buttons-container a:first-child{
+    margin-right: 1.6rem; /*Margem externa -RIGHT- elemento*/
+}
+.buttons-container img{
+    width: 4rem;   
+}
+
+.buttons-container a.study{
+    background:var(--color-primary-lighter);
+}
+
+.buttons-container a.give-classes{
+    background: var(--color-secundary);
+}
+
+.buttons-container a.study:hover{
+    background:var(--color-primary-light);
+} 
+
+.buttons-container a.give-classes:hover{
+    background: var(--color-secundary-dark);
+}
+
+.total-connections{
+    font-size: 1.4rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.total-connections img{
+    margin-left: 0.8rem;
+
+}
+
+
+
+/***********************************/
+    /*TELA  >= 1100PX* DESKTOP /
+/***********************************/
+@media(min-width:1100px){
+
+    #page-landing-content{
+        max-width: 1100px;
+
+        display: grid; /*Deixa os elementos filhos aptos ao GRID*/
+        grid-template-rows:350px 1fr ;  /*Define o tamanho da linha */
+        grid-template-columns: 2fr 1fr 1fr;/*Define o tamanho da coluna */
+        grid-template-areas: /*Define o posicionamento dos elementos*/
+        "logo hero hero"
+        "buttons buttons total";
+    }
+    .logo-container{
+    
+       grid-area: logo; /*Direciona o elemento sua referência feita no -grid-template-areas-*/
+       align-self: center ; /*Centraliza a si mesmo de forma vertical*/
+       margin:0;
+       text-align: left;
+    }
+    .logo-container h2{
+      text-align: initial; /*Alinha o texto (conteúdo) a esquerda*/
+      font-size: 3.6rem;
+     }
+
+     .logo-container img{
+        height: 100%;
+       }
+
+
+    .hero-image{
+        grid-area: hero; /*Direciona o elemento sua referência feita no -grid-template-areas-*/
+        align-self: end; /*Posiciona o elemento sempre no -bottom-*/
+    }
+
+    .buttons-container{
+        grid-area: buttons; /*Direciona o elemento sua referência feita no -grid-template-areas-*/
+        justify-self: flex-start; /*Posiciona o elemento a esquerda, no início.*/
+    }
+
+    .buttons-container{
+       font-size: 2.4rem;
+    }
+
+    .buttons-container a img{
+        margin-right:2.4rem;
+     }
+
+    .total-connections{
+        grid-area: total; /*Direciona o elemento sua referência feita no -grid-template-areas-*/
+        justify-self: end; /*Posiciona o elemento sempre para direitra -right- */
+    }
+
+}
+
+
