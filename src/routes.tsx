@@ -7,11 +7,11 @@ import { TeacherList } from './pages/TeacherList'
 
 export function RoutesWeb() {
     return (
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router>
             <Routes>
-                <Route path='/' element={<Landing/>} />
-                <Route path='/study' element={<TeacherList/>} />
-                <Route path='/give-classes' element={<TeacherForm/>} />
+                <Route path='/Proffy---Platafoma-de-Aulas' element={<Landing/>} />
+                <Route path='/Proffy---Platafoma-de-Aulas/study' element={<TeacherList/>} />
+                <Route path='/Proffy---Platafoma-de-Aulas/give-classes' element={<TeacherForm/>} />
             </Routes>
         </Router>
 
