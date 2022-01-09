@@ -7,7 +7,7 @@ import { TeacherList } from './pages/TeacherList'
 
 export function RoutesWeb() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path='/' element={<Landing/>} />
                 <Route path='/study' element={<TeacherList/>} />
