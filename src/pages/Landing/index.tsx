@@ -26,11 +26,11 @@ export function Landing() {
                     alt="Plataformas de estudos" className="hero-image"
                 />
                 <div className="buttons-container">
-                    <Link to="/study" className="study">
+                    <Link to="/Proffy---Platafoma-de-Aulas/study" className="study">
                         <img src={studyIcon} alt='Estudar' />
                         Estudar
                     </Link>
-                    <Link to="/give-classes" className="give-classes">
+                    <Link to="/Proffy---Platafoma-de-Aulas/give-classes" className="give-classes">
                         <img src={giveClassesIcon} alt='Estudar' />
                         Dar Aulas
                     </Link>
