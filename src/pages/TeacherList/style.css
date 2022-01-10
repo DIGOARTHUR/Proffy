@@ -1,50 +1,12 @@
+
+/***********************************/
+        /*TELA  < 700PX*   MOBILE/ 
+/***********************************/
 #page-teacher-list{
     width: 100vw;
     height: 100vh;
 }
 
-.page-header{
-    display: flex;
-    flex-direction: column;
-    background-color: var(--color-primary);
-}
-
-.page-header .top-bar-container{
-    width: 90%;
-    margin: 0 auto; /* -top bottom- -right left-  -*/
-    display: flex;
-    justify-content: space-between; /*Espaçamentos entre dois elemnto - left <-> right*/
-    align-items: center;
-    color: var( --color-text-in-primary);
-    padding: 1.6rem 0;
-
-}
-
-.page-header .top-bar-container > a {
-   height: 3.2rem;
-   transition: opacity 0.2s;
-}
-
-.page-header .top-bar-container > a:hover { 
-    opacity: 0.6; 
- }
-
-
-
-.page-header .top-bar-container > img {
-    height: 1.6rem;
-}
-
-.page-header .header-content{
-    width: 90%;
-    position: relative;
-    margin: 3.2rem auto;
-}
-.page-header .header-content strong{
-    font: 700 3.6rem Archivo;
-    line-height: 4.2rem;
-    color:var(--color-title-in-primary)
-}
 
 #search-teachers{
     margin-top: 3.2rem;
@@ -55,8 +17,11 @@
 }
 #search-teachers .input-block{
    position: relative;
-
 }
+#search-teachers .input-block + .input-block {
+    margin-top:1.4rem ;
+ }
+ 
 
 #search-teachers .input-block label{ 
     font-size: 1.4rem;
@@ -81,8 +46,41 @@
     height: 2px;
     content: '';
     background: var(--color-primary-light);
-    position: absolute;
+    position:absolute ;
     left: 1.6rem;
     right:1.6rem;
     bottom: 0;
 ; }
+
+#page-teacher-list main{
+    margin: 3.2rem auto;
+    width: 90%;
+
+}
+
+
+/***********************************/
+    /*TELA  >= 700PX* DESKTOP /
+/***********************************/
+
+@media(min-width:700px){
+  
+    #search-teachers{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        column-gap: 16px;
+        position: absolute;
+        bottom: -28px;
+    }
+
+    #search-teachers .input-block + .input-block {
+        margin-top:0rem;
+     }
+
+     #page-teacher-list main{
+         padding: 3.2rem 0;
+         max-width: 740px;
+         margin: 0 auto;
+     }
+
+}

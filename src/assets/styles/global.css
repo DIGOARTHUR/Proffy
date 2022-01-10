@@ -63,6 +63,7 @@ input,
 button,
 textarea{
     font: 500 1.6rem Poppins; /*Preechimento da fonte - Tamanho - Fonte*/
+    color: var( --color-text-base);
 }
 
 
