@@ -9,9 +9,9 @@ export function RoutesWeb() {
     return (
         <Router>
             <Routes>
-                <Route path='/Proffy---Platafoma-de-Aulas' element={<Landing/>} />
-                <Route path='/Proffy---Platafoma-de-Aulas/study' element={<TeacherList/>} />
-                <Route path='/Proffy---Platafoma-de-Aulas/give-classes' element={<TeacherForm/>} />
+                <Route path='/' element={<Landing/>} />
+                <Route path='/study' element={<TeacherList/>} />
+                <Route path='/give-classes' element={<TeacherForm/>} />
             </Routes>
         </Router>
 
