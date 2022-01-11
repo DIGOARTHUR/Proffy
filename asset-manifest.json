@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Proffy---Platafoma-de-Aulas/static/css/main.d2685efd.chunk.css",
-    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.a03893cd.chunk.js",
-    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.a03893cd.chunk.js.map",
+    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.47552810.chunk.js",
+    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.47552810.chunk.js.map",
     "runtime-main.js": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js",
     "runtime-main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js.map",
     "static/js/2.06f3346b.chunk.js": "/Proffy---Platafoma-de-Aulas/static/js/2.06f3346b.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f5c32519.js",
     "static/js/2.06f3346b.chunk.js",
     "static/css/main.d2685efd.chunk.css",
-    "static/js/main.a03893cd.chunk.js"
+    "static/js/main.47552810.chunk.js"
   ]
 }
