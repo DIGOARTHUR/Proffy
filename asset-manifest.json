@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Proffy---Platafoma-de-Aulas/static/css/main.d2685efd.chunk.css",
-    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.d8acb20e.chunk.js",
-    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.d8acb20e.chunk.js.map",
+    "main.css": "/Proffy---Platafoma-de-Aulas/static/css/main.36719eb5.chunk.css",
+    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.84f2881c.chunk.js",
+    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.84f2881c.chunk.js.map",
     "runtime-main.js": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js",
     "runtime-main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js.map",
     "static/js/2.06f3346b.chunk.js": "/Proffy---Platafoma-de-Aulas/static/js/2.06f3346b.chunk.js",
     "static/js/2.06f3346b.chunk.js.map": "/Proffy---Platafoma-de-Aulas/static/js/2.06f3346b.chunk.js.map",
     "index.html": "/Proffy---Platafoma-de-Aulas/index.html",
-    "static/css/main.d2685efd.chunk.css.map": "/Proffy---Platafoma-de-Aulas/static/css/main.d2685efd.chunk.css.map",
+    "static/css/main.36719eb5.chunk.css.map": "/Proffy---Platafoma-de-Aulas/static/css/main.36719eb5.chunk.css.map",
     "static/js/2.06f3346b.chunk.js.LICENSE.txt": "/Proffy---Platafoma-de-Aulas/static/js/2.06f3346b.chunk.js.LICENSE.txt",
     "static/media/back.7ead4ae8.svg": "/Proffy---Platafoma-de-Aulas/static/media/back.7ead4ae8.svg",
     "static/media/give-classes.a6e3fd8d.svg": "/Proffy---Platafoma-de-Aulas/static/media/give-classes.a6e3fd8d.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.f5c32519.js",
     "static/js/2.06f3346b.chunk.js",
-    "static/css/main.d2685efd.chunk.css",
-    "static/js/main.d8acb20e.chunk.js"
+    "static/css/main.36719eb5.chunk.css",
+    "static/js/main.84f2881c.chunk.js"
   ]
 }
