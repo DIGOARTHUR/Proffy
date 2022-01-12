@@ -6,6 +6,7 @@ import './sytle.css'
 interface PageHeaderProps{
     title:string;
     children?: React.ReactNode;
+    description?:string
 }
 
 export function PageHeader (props:PageHeaderProps){
@@ -20,6 +21,7 @@ export function PageHeader (props:PageHeaderProps){
 
         <div className="header-content">
             <strong>{props.title}</strong>
+            {props.description && <p>{props.description}</p>}
             {props.children}
         </div>
     </header>

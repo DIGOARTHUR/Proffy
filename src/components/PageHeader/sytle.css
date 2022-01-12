@@ -2,7 +2,10 @@
     display: flex;
     flex-direction: column;
     background-color: var(--color-primary);
+  
 }
+
+
 
 .page-header .top-bar-container{
     width: 90%;
@@ -40,6 +43,15 @@
     line-height: 4.2rem;
     color:var(--color-title-in-primary)
 }
+
+.page-header .header-content p {
+    max-width: 30rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem; /*Espaço entre linhas de texto*/
+    color: var(--color-text-in-primary);
+    margin-top: 2.4rem;
+}
+
 
 /***********************************/
     /*TELA  >= 700PX* DESKTOP /
