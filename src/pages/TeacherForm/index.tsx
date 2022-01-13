@@ -1,4 +1,5 @@
 import React from 'react'
+import { Input } from '../../components/Input'
 import { PageHeader } from '../../components/PageHeader'
 
 import './style.css'
@@ -11,11 +12,9 @@ export function TeacherForm() {
                 />
                 <main>
                     <fieldset>
-                        <legend>Meus Dados   </legend>
-                            <div className="input-block">
-                                <label htmlFor="name">Nome Completo</label>
-                                <input type="text" id="name" />
-                            </div>
+                        <legend>Seus Dados  </legend>
+                       
+                           <Input name="name" label="Nome Completo" />
 
                             <div className="input-block">
                                 <label htmlFor="avatar">Avatar</label>
