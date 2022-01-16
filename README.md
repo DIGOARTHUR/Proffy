@@ -80,7 +80,7 @@ O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresenta
 https://github.com/DIGOARTHUR/Proffy---Platafoma-de-Aulas.git
 ```
 
-1. Instalar dependências
+2. Instalar dependências
 
 ```
 yarn install
