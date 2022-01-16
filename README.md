@@ -26,9 +26,9 @@
 ## Mobile
 
 <div >
-  <img  src="https://user-images.githubusercontent.com/59892368/149661160-0c05b2c1-883a-4b76-a865-31ee7c8530f2.png" width="250" height="378">
-  <img  src="https://user-images.githubusercontent.com/59892368/149661234-81dfa59f-47d5-4145-982b-3df608bb2c1c.png" width="250" height="378">
-  <img  src="https://user-images.githubusercontent.com/59892368/149661237-03877008-35d7-40dd-9b0c-7f9f6a44b3ba.png" width="250" height="378">
+  <img  src="https://user-images.githubusercontent.com/59892368/149661160-0c05b2c1-883a-4b76-a865-31ee7c8530f2.png" width="265" height="401">
+  <img  src="https://user-images.githubusercontent.com/59892368/149661234-81dfa59f-47d5-4145-982b-3df608bb2c1c.png" width="265" height="401">
+  <img  src="https://user-images.githubusercontent.com/59892368/149661237-03877008-35d7-40dd-9b0c-7f9f6a44b3ba.png" width="265" height="401">
 </div>      
 
 ## Desktop
