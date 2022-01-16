@@ -74,7 +74,7 @@ O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresenta
  
 
 
-1. Clonar repositorio
+1. Clonar repositório:
 
 ```
 https://github.com/DIGOARTHUR/Proffy---Platafoma-de-Aulas.git
