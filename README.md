@@ -55,7 +55,7 @@
   * `Propriedade` (Aplicar passagem de propriedades nos Componentes)
   * `Componente` ( Divisão de elementos da aplicação)
   * `Hook` (UseState() - Armazenar dados )
-  * `Router` (Mudança de layout por meio de rotas)
+  * `Router` (Navegação pela a aplicação)
   
   
 
