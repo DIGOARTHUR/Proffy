@@ -87,28 +87,29 @@ https://github.com/DIGOARTHUR/Proffy---Platafoma-de-Aulas.git
 yarn install
 ```
 
-3. Trocar URL do repositorio remoto (caso necessário)
-
-3.1. Ver qual o repositorio atual
-```
-git remote -v
-```
-3.2. Mudar a URL do repositorio remoto
-```
-git remote set-url origin <LinkDoNovoRepositorio>
-```
-3.3. Verifique se a mudança foi realizada
-```
-git remote -v
-```
-
-4. Rodar aplicativo
+3. Rodar aplicativo
 
 ```
 yarn dev
 ```
 
-5. Acesse http://localhost:3000/ e navegue pelo site
+4. Acesse http://localhost:3000/ e navegue pelo site
+
+:warning: 5. Trocar URL do repositorio remoto (caso necessário)
+
+  5.1 Ver qual o repositorio atual
+```
+git remote -v
+```
+  5.2 Mudar a URL do repositorio remoto
+```
+git remote set-url origin <LinkDoNovoRepositorio>
+```
+  5.3 Verifique se a mudança foi realizada
+```
+git remote -v
+```
+
 
 
 
