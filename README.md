@@ -9,7 +9,7 @@
 #### Stacks:
 <p align="left">
 
-<img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png">
   <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png">
   <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png">
   <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png">
@@ -26,9 +26,9 @@
 ## Mobile
 
 <div >
-  <img src="https://user-images.githubusercontent.com/59892368/149661160-0c05b2c1-883a-4b76-a865-31ee7c8530f2.png" width="280" height="424">
-  <img src="https://user-images.githubusercontent.com/59892368/149661234-81dfa59f-47d5-4145-982b-3df608bb2c1c.png" width="280" height="424">
-  <img src="https://user-images.githubusercontent.com/59892368/149661237-03877008-35d7-40dd-9b0c-7f9f6a44b3ba.png" width="280" height="424">
+  <img align="left" src="https://user-images.githubusercontent.com/59892368/149661160-0c05b2c1-883a-4b76-a865-31ee7c8530f2.png" width="280" height="424">
+  <img align="right" src="https://user-images.githubusercontent.com/59892368/149661234-81dfa59f-47d5-4145-982b-3df608bb2c1c.png" width="280" height="424">
+  <img align="center" src="https://user-images.githubusercontent.com/59892368/149661237-03877008-35d7-40dd-9b0c-7f9f6a44b3ba.png" width="280" height="424">
 </div>      
 
 ## Desktop
