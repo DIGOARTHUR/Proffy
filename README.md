@@ -52,9 +52,9 @@
 * `Array e Objeto JS` (uso do map)
 * `CSS` (Grid e FlexBox)
 * React
-  * `Propriedade` (Aplicar passagem de propriedades nos Componentes)
-  * `Componente` ( Divisão de elementos da aplicação)
-  * `Hook` (UseState() - Armazenar dados )
+  * [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)
+  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
+  * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
   * `Router` (Navegação pela a aplicação)
   
   
