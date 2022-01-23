@@ -71,7 +71,7 @@ O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresenta
 :white_square_button: BackEnd
 
  
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando o código
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
 
 
