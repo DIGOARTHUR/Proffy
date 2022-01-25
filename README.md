@@ -78,7 +78,7 @@ O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresenta
 1. Clonar repositório:
 
 ```
-https://github.com/DIGOARTHUR/Proffy---Platafoma-de-Aulas.git
+git clone https://github.com/DIGOARTHUR/Proffy---Platafoma-de-Aulas.git
 ```
 
 2. Instalar dependências
