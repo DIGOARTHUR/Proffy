@@ -18,7 +18,7 @@ import { RoutesWeb } from './routes';
 
   export default App;
 
-/*git add .  / git commit -m '' */
+/*git add .  / git commit -m ''*/
 
 /*DEPLOY*/
 /*npm run deploy*/
