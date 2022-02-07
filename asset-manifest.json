@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Proffy---Platafoma-de-Aulas/static/css/main.fa82b1cc.chunk.css",
-    "main.js": "/Proffy---Platafoma-de-Aulas/static/js/main.bf48cdfd.chunk.js",
-    "main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/main.bf48cdfd.chunk.js.map",
-    "runtime-main.js": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js",
-    "runtime-main.js.map": "/Proffy---Platafoma-de-Aulas/static/js/runtime-main.f5c32519.js.map",
-    "static/js/2.e2d48bf4.chunk.js": "/Proffy---Platafoma-de-Aulas/static/js/2.e2d48bf4.chunk.js",
-    "static/js/2.e2d48bf4.chunk.js.map": "/Proffy---Platafoma-de-Aulas/static/js/2.e2d48bf4.chunk.js.map",
-    "index.html": "/Proffy---Platafoma-de-Aulas/index.html",
-    "static/css/main.fa82b1cc.chunk.css.map": "/Proffy---Platafoma-de-Aulas/static/css/main.fa82b1cc.chunk.css.map",
-    "static/js/2.e2d48bf4.chunk.js.LICENSE.txt": "/Proffy---Platafoma-de-Aulas/static/js/2.e2d48bf4.chunk.js.LICENSE.txt",
-    "static/media/back.7ead4ae8.svg": "/Proffy---Platafoma-de-Aulas/static/media/back.7ead4ae8.svg",
-    "static/media/give-classes.a6e3fd8d.svg": "/Proffy---Platafoma-de-Aulas/static/media/give-classes.a6e3fd8d.svg",
-    "static/media/landing.12dc888d.svg": "/Proffy---Platafoma-de-Aulas/static/media/landing.12dc888d.svg",
-    "static/media/logo.29ffb1ae.svg": "/Proffy---Platafoma-de-Aulas/static/media/logo.29ffb1ae.svg",
-    "static/media/purple-heart.f9c387fc.svg": "/Proffy---Platafoma-de-Aulas/static/media/purple-heart.f9c387fc.svg",
-    "static/media/study.60518e96.svg": "/Proffy---Platafoma-de-Aulas/static/media/study.60518e96.svg",
-    "static/media/warning.852df132.svg": "/Proffy---Platafoma-de-Aulas/static/media/warning.852df132.svg",
-    "static/media/whatsapp.30459c89.svg": "/Proffy---Platafoma-de-Aulas/static/media/whatsapp.30459c89.svg"
+    "main.css": "/Proffy/static/css/main.fa82b1cc.chunk.css",
+    "main.js": "/Proffy/static/js/main.ef882fb2.chunk.js",
+    "main.js.map": "/Proffy/static/js/main.ef882fb2.chunk.js.map",
+    "runtime-main.js": "/Proffy/static/js/runtime-main.d27d2fb3.js",
+    "runtime-main.js.map": "/Proffy/static/js/runtime-main.d27d2fb3.js.map",
+    "static/js/2.14a99856.chunk.js": "/Proffy/static/js/2.14a99856.chunk.js",
+    "static/js/2.14a99856.chunk.js.map": "/Proffy/static/js/2.14a99856.chunk.js.map",
+    "index.html": "/Proffy/index.html",
+    "static/css/main.fa82b1cc.chunk.css.map": "/Proffy/static/css/main.fa82b1cc.chunk.css.map",
+    "static/js/2.14a99856.chunk.js.LICENSE.txt": "/Proffy/static/js/2.14a99856.chunk.js.LICENSE.txt",
+    "static/media/back.7ead4ae8.svg": "/Proffy/static/media/back.7ead4ae8.svg",
+    "static/media/give-classes.a6e3fd8d.svg": "/Proffy/static/media/give-classes.a6e3fd8d.svg",
+    "static/media/landing.12dc888d.svg": "/Proffy/static/media/landing.12dc888d.svg",
+    "static/media/logo.29ffb1ae.svg": "/Proffy/static/media/logo.29ffb1ae.svg",
+    "static/media/purple-heart.f9c387fc.svg": "/Proffy/static/media/purple-heart.f9c387fc.svg",
+    "static/media/study.60518e96.svg": "/Proffy/static/media/study.60518e96.svg",
+    "static/media/warning.852df132.svg": "/Proffy/static/media/warning.852df132.svg",
+    "static/media/whatsapp.30459c89.svg": "/Proffy/static/media/whatsapp.30459c89.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5c32519.js",
-    "static/js/2.e2d48bf4.chunk.js",
+    "static/js/runtime-main.d27d2fb3.js",
+    "static/js/2.14a99856.chunk.js",
     "static/css/main.fa82b1cc.chunk.css",
-    "static/js/main.bf48cdfd.chunk.js"
+    "static/js/main.ef882fb2.chunk.js"
   ]
 }
