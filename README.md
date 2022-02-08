@@ -35,8 +35,8 @@ https://simpleicons.org/?q=react
 
 # Proffy - Plataforma de Aulas - NLW#02
 
-    <!--- sumary -->
-  <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
+<!--- sumary -->
+<h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
 
 
 * ### <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação--">Sobre a aplicação</a>
