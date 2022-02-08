@@ -44,7 +44,7 @@ https://simpleicons.org/?q=react
   
  * ### <a href="https://github.com/DIGOARTHUR/Proffy#--interfaces-"> Interfaces</a>
 
- * ### <a href="https://github.com/DIGOARTHUR/Proffy#-pontos-principais-">Pontos Principais</a>
+ * ### <a href="https://github.com/DIGOARTHUR/Proffy#-pontos-abordados-">Pontos Abordados</a>
 
 
  * ### <a href="https://github.com/DIGOARTHUR/Proffy#-por-quê--">Por quê?</a>
