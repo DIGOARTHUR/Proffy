@@ -1,10 +1,16 @@
-# Proffy - Plataforma de Aulas - NLW#02
+<!-- VISUALIZAR NO VSCODE  CTRL + K  V -->
 
+<!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
+https://dev.to/envoy_/150-badges-for-github-pnk
 
- 
+BUILD BADGES
+https://shields.io
+ICONS
+https://simpleicons.org/?q=react
+-->
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso a Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos.
+![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/proffy)
+![GitHub](https://img.shields.io/github/license/digoarthur/proffy)
 
 #### Stacks:
 <p align="left">
@@ -19,6 +25,38 @@
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
 
 </p>
+  
+  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+ <a href="https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024"> ![Alt ou título da imagem](https://img.shields.io/badge/-Router-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-Estado-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Componentes-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+   <a href="https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7"> ![Alt ou título da imagem](https://img.shields.io/badge/-Propriedades-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+
+
+# Proffy - Plataforma de Aulas - NLW#02
+
+    <!--- sumary -->
+  <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
+
+
+* ### <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação--">Sobre a aplicação</a>
+  * ### <a href="https://github.com/DIGOARTHUR/Proffy#stacks">Stacks</a>
+  
+ * ### <a href="https://github.com/DIGOARTHUR/Proffy#--interfaces-"> Interfaces</a>
+
+ * ### <a href="https://github.com/DIGOARTHUR/Proffy#-pontos-principais-">Pontos Principais</a>
+
+
+ * ### <a href="https://github.com/DIGOARTHUR/Proffy#-por-quê--">Por quê?</a>
+
+ *  ### <a href="https://github.com/DIGOARTHUR/Proffy#-algumas-observações">Algumas observações</a>
+
+ *  ## <a href="https://github.com/DIGOARTHUR/Proffy#-rodando-a-aplicação">Rodando a Aplicação</a>
+
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
+> Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso a Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos.
+
+
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
 
@@ -44,7 +82,7 @@
 </div>
 
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Principais: <!---write here: learned concepts ;    -->
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
 
 * `Array e Objeto JS` (uso do map)
