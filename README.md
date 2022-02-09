@@ -30,9 +30,9 @@ https://simpleicons.org/?q=react
     
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024"> ![Alt ou título da imagem](https://img.shields.io/badge/-Router-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
-<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-Estado-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
-   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Componentes-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
-   <a href="https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7"> ![Alt ou título da imagem](https://img.shields.io/badge/-Propriedades-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
+   <a href="https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7"> ![Alt ou título da imagem](https://img.shields.io/badge/-Props-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
 
 
 # Proffy - Plataforma de Aulas - NLW#02
