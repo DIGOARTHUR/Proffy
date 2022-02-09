@@ -27,6 +27,7 @@ https://simpleicons.org/?q=react
 
 </p>
    <!------------------------------------Applied Concepts-->
+    
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024"> ![Alt ou título da imagem](https://img.shields.io/badge/-Router-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
 <a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-Estado-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
