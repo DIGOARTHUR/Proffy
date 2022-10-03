@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Proffy/static/css/main.fa82b1cc.chunk.css",
-    "main.js": "/Proffy/static/js/main.521cf795.chunk.js",
-    "main.js.map": "/Proffy/static/js/main.521cf795.chunk.js.map",
+    "main.js": "/Proffy/static/js/main.170b245f.chunk.js",
+    "main.js.map": "/Proffy/static/js/main.170b245f.chunk.js.map",
     "runtime-main.js": "/Proffy/static/js/runtime-main.d27d2fb3.js",
     "runtime-main.js.map": "/Proffy/static/js/runtime-main.d27d2fb3.js.map",
-    "static/js/2.14a99856.chunk.js": "/Proffy/static/js/2.14a99856.chunk.js",
-    "static/js/2.14a99856.chunk.js.map": "/Proffy/static/js/2.14a99856.chunk.js.map",
+    "static/js/2.72d3cb1b.chunk.js": "/Proffy/static/js/2.72d3cb1b.chunk.js",
+    "static/js/2.72d3cb1b.chunk.js.map": "/Proffy/static/js/2.72d3cb1b.chunk.js.map",
     "index.html": "/Proffy/index.html",
     "static/css/main.fa82b1cc.chunk.css.map": "/Proffy/static/css/main.fa82b1cc.chunk.css.map",
-    "static/js/2.14a99856.chunk.js.LICENSE.txt": "/Proffy/static/js/2.14a99856.chunk.js.LICENSE.txt",
+    "static/js/2.72d3cb1b.chunk.js.LICENSE.txt": "/Proffy/static/js/2.72d3cb1b.chunk.js.LICENSE.txt",
     "static/media/back.7ead4ae8.svg": "/Proffy/static/media/back.7ead4ae8.svg",
     "static/media/give-classes.a6e3fd8d.svg": "/Proffy/static/media/give-classes.a6e3fd8d.svg",
     "static/media/landing.12dc888d.svg": "/Proffy/static/media/landing.12dc888d.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d27d2fb3.js",
-    "static/js/2.14a99856.chunk.js",
+    "static/js/2.72d3cb1b.chunk.js",
     "static/css/main.fa82b1cc.chunk.css",
-    "static/js/main.521cf795.chunk.js"
+    "static/js/main.170b245f.chunk.js"
   ]
 }
