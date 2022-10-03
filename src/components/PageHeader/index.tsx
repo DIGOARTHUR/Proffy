@@ -13,7 +13,7 @@ export function PageHeader (props:PageHeaderProps){
     return(
         <header className="page-header">
         <div className="top-bar-container">
-            <Link to='/Proffy---Platafoma-de-Aulas'>
+            <Link to='/Proffy'>
                 <img src={backIcon} alt='Volta'></img>
             </Link>
             <img src={logoImg} alt='Proffy'></img>
