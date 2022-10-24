@@ -55,10 +55,10 @@ https://simpleicons.org/?q=react
 
    <!------------------------------------SUMMARY-->
 <p align="center">
-  <a href="https://github.com/DIGOARTHUR/Proffy#---sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy#---interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#--stacks-e-libs-">Stacks e Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#--rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy#-stacks-e-libs-">Stacks e Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>  
 
@@ -69,20 +69,21 @@ https://simpleicons.org/?q=react
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso a Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos.
   
+
+     
+   
+   
   
 <!------------------------------------LAYOUT -->
 
 <!---
 ## FIGMA 
+-->
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
   <!---
 <a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 --->
     
- 
-   
-   
-
 ## DESKTOP
   
 |                             Tela Principal                             |
@@ -186,15 +187,14 @@ git remote -v
 ```
 
 
+
   <!------------------------------------WHY/THANKS --->
 
 
-
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197643886-779de461-9dd9-4aa7-a904-177fd5e38cd0.png">  Por que? <!---write here : why -->
  ---
 
-   > O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresentadas nas NLW da Rocketseat, onde procuro aprimorar a minha habilidade utilizando o React, assim como toda a base em torno dele. O NLW#02 foi um dos eventos inicias, e resolvi começar por ele seguindo para os posteriores. Quero poder compreender cada parte apresentada e aplicar.
-  
-
+> O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresentadas nas NLW da Rocketseat, onde procuro aprimorar a minha habilidade utilizando o React, assim como toda a base em torno dele. O NLW#02 foi um dos eventos inicias, e resolvi começar por ele seguindo para os posteriores. Quero poder compreender cada parte apresentada e aplicar.
 
 
 
