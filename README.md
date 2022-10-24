@@ -59,6 +59,7 @@ https://simpleicons.org/?q=react
   <a href="https://github.com/DIGOARTHUR/Proffy#---interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy#-stacks-e-libs-">Stacks e Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/DIGOARTHUR/Proffy#--por-que-">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>  
 
