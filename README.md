@@ -125,7 +125,7 @@ EXEMPLO
   
   
   
-  <!------------------------------------List Stacks-->
+  <!------------------------------------LIST: STACKS , LIBS & TOOLS-->
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
