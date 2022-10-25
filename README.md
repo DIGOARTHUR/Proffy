@@ -68,7 +68,7 @@ EXEMPLO
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy#--por-que-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#-stacks-e-libs-">Stacks e Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/DIGOARTHUR/Proffy#--por-que-">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
@@ -125,9 +125,9 @@ EXEMPLO
   
   
   
-  <!------------------------------------PRODUCTION SKILLS-->
+  <!------------------------------------List Stacks-->
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks e Libs: <!---write here: learned concepts; -->
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 ### Lógica 
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
@@ -142,14 +142,18 @@ EXEMPLO
   * [`Grid`](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) (Modelo Layout)
 
    
-### Framework & Lib
+### Framework / Lib
   
 * <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
   * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rodas das páginas construídas)
-   
+
+ ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
    
   <!------------------------------------OBS-->
    # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Algumas observações
