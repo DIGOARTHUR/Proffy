@@ -7,6 +7,15 @@ BUILD BADGES
 https://shields.io
 ICONS
 https://simpleicons.org/?q=react
+
+EXEMPLO
+
+ <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+
+# JavaScript - Nome que aparece na Bag
+# logo=JavaScript - Muda a logo vide <https://simpleicons.org/?q=react>
+# color=yellow - Define a cor da bag
+# logoColor=white - Define a cor do icone
 -->
 
  <!------------------------------------BANNER PROJECT-->
