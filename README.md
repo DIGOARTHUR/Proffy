@@ -138,7 +138,7 @@ https://simpleicons.org/?q=react
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
-  * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Bibliteca utilizada para definir rodas das páginas construídas)
+  * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rodas das páginas construídas)
    
    
   <!------------------------------------OBS-->
