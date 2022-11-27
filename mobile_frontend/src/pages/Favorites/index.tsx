@@ -8,7 +8,7 @@ import styles from './styles';
 export function Favorites() {
   return (
     <View style={styles.container} >
-      <PageHeader title="Meus proffys favori"/>
+      <PageHeader title="Meus proffys favoritos"/>
 
       <ScrollView style={styles.teacherList}
         contentContainerStyle={{
