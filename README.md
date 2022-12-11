@@ -12,12 +12,16 @@
    
 
    <!------------------------------------SUMMARY-->
+
+<!---
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy/tree/master#--plataformas-"> Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Proffy/tree/master#--server-">Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>  
+
+-->
 
   
   
