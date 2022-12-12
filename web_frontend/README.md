@@ -20,14 +20,6 @@ EXEMPLO
 
 
 
-
-
-
-
-
- <!------------------------------------SHIELDS PROJECT-->
-![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/proffy)
-![GitHub](https://img.shields.io/github/license/digoarthur/proffy)
   
   
 
