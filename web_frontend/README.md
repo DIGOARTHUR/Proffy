@@ -155,12 +155,7 @@ EXEMPLO
  ### IDE
  <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
    
-  <!------------------------------------OBS-->
-   # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Algumas observações
 
-:white_check_mark: FrontEnd
-
-:white_square_button: BackEnd
  
   <!------------------------------------RUN APP-->
  
