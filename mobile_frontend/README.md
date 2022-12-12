@@ -31,7 +31,7 @@ EXEMPLO
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
    <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
-   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
+   <a href="https://pt-br.reactjs.org/"><img  alt="ReactNative"  width="50" height="53" src="https://user-images.githubusercontent.com/59892368/207154754-cadc011e-746a-49cf-9815-d42eece3d5be.png"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
    
     
@@ -60,30 +60,17 @@ EXEMPLO
 <a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 --->
     
-## DESKTOP
   
-|                             Tela Principal                             |
-| :-------------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/149661552-c57ed050-9a61-4033-a731-abfca7a22c4f.png) |
-
-  
-  |                               Professores Disponíveis                              |
-| :-------------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/149661965-0be207b1-48ca-42b2-a97e-3a8f6275b71a.png)|
-
-  
-|                                 Cadastro                     |
-| :--------------------------------------------------------------: |
-|   ![image](https://user-images.githubusercontent.com/59892368/149661775-a220d60c-b2e4-4251-9017-66c44ef5e491.png)|
-  
-
-  
-## Mobile
+## App
 
 <div >
-  <img  src="https://user-images.githubusercontent.com/59892368/149661160-0c05b2c1-883a-4b76-a865-31ee7c8530f2.png" width="265" height="401">
-  <img  src="https://user-images.githubusercontent.com/59892368/149661234-81dfa59f-47d5-4145-982b-3df608bb2c1c.png" width="265" height="401">
-  <img  src="https://user-images.githubusercontent.com/59892368/149661237-03877008-35d7-40dd-9b0c-7f9f6a44b3ba.png" width="265" height="401">
+
+<img  src="https://user-images.githubusercontent.com/59892368/207155868-c6c0a5eb-9953-4a29-9ff3-74c16883a399.jpeg" width="265" height="600"> 
+<img  src="https://user-images.githubusercontent.com/59892368/207155862-cfffc759-8dea-42b5-a747-ff2b62599a8b.jpeg" width="265" height="600">
+  <img  src="https://user-images.githubusercontent.com/59892368/207155871-e4ece226-ae7c-4829-8dd3-24134e182e5c.jpeg" width="265" height="600">
+    <img  src="https://user-images.githubusercontent.com/59892368/207155877-dedd8e9a-cb5a-4c35-bfc8-6921c4390169.jpeg" width="265" height="600">
+  <img  src="https://user-images.githubusercontent.com/59892368/207155874-9fb66bea-dcbb-4079-8a36-3acc290ea51f.jpeg" width="265" height="600">
+  
 </div> 
 
   
@@ -112,7 +99,7 @@ EXEMPLO
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
-  * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rodas das páginas construídas)
+  * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rotas das páginas construídas)
 
  ### Versionameto
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
