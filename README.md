@@ -38,3 +38,12 @@
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/206930864-181b3e3f-1b36-4f7f-929a-8c164410de61.png">  Server <!---write here : talk a little about project: what's does, example.  -->
 - [Server](https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend)
+
+
+  <!------------------------------------WHY/THANKS --->
+
+
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197643886-779de461-9dd9-4aa7-a904-177fd5e38cd0.png">  Por que? <!---write here : why -->
+ ---
+
+> O meu objetivo, partindo deste projeto, é desenvolver as aplicações apresentadas nas NLW da Rocketseat, onde procuro aprimorar a minha habilidade utilizando o React, assim como toda a base em torno dele. O NLW#02 foi um dos eventos inicias, e resolvi começar por ele seguindo para os posteriores. Quero poder compreender cada parte apresentada e aplicar.
