@@ -14,7 +14,7 @@ EXEMPLO
 
 # JavaScript - Nome que aparece na Bag
 # logo=JavaScript - Muda a logo vide <https://simpleicons.org/?q=react>
-# color=yellow - Define a cor da bag
+# color=yellow - Define a cor da bag <https://shields.io>
 # logoColor=white - Define a cor do icone
 -->
 
@@ -95,7 +95,7 @@ EXEMPLO
    
 ### Framework / Lib
   
-* <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
+* <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
