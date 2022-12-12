@@ -48,36 +48,8 @@ EXEMPLO
      
 <hr>
   
-  <!------------------------------------PROJECT ICON-->
-  
-   
-   <h1 align="center">
-  <img  alt="Dashgo" title="Dashgo" src="https://user-images.githubusercontent.com/59892368/197890504-1d2fd524-b380-47bb-8d00-d78d4e69c932.png" />
- </h1>
-   
 
-   <!------------------------------------SUMMARY-->
-<p align="center">
-  <a href="https://github.com/DIGOARTHUR/Proffy#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#--por-que-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Proffy#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/DIGOARTHUR/Proffy#--por-que-">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- 
-</p>  
 
-  
-  
-<!------------------------------------DESCRIPTION-->
-
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso a Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos.
-  
-
-     
-   
-   
-  
 <!------------------------------------LAYOUT -->
 
 <!---
