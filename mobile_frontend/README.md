@@ -85,22 +85,19 @@ EXEMPLO
    * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
    
 ### Estilização 
-* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-CSS3-/?logo=CSS3&logoColor=white&color=blue)<a/> 
-  * [`Global Style`]()
-     * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
-     * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
-  * [`Flexbox`](https://origamid.com/projetos/flexbox-guia-completo/) (Modelo Layout)
-  * [`Grid`](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) (Modelo Layout)
+* <a href="https://reactnative.dev/docs/stylesheet"> ![Alt ou título da imagem](https://img.shields.io/badge/-StyleSheet-/?logo=TypeScript&logoColor=white&color=blue)<a/> 
+  * [`styles.ts`](https://reactnative.dev/docs/stylesheet)(StyleSheet é uma abstração semelhante ao CSS)
 
-   
 ### Framework / Lib
   
-* <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
+* <a href="https://reactnative.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
-  * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rotas das páginas construídas)
-
+  * [`Routes`](https://reactnative.dev/docs/navigation)
+    * [`@react-navigation/native`](https://reactnative.dev/docs/navigation) (Biblioteca - O React Navigation é composto de alguns utilitários principais e esses são usados pelos navegadores para criar a estrutura de navegação em seu aplicativo.)
+    * [`@react-navigation/stack`](https://reactnative.dev/docs/navigation#react-navigation) (Biblioteca utilizada para definir rotas das páginas em formato de pilhas) 
+  * [`Async Storage`](https://react-native-async-storage.github.io/async-storage/) (Biblioteca - O Async Storage é uma ferramenta para React-Native que permite ao aplicativo gerenciar dados localmente e a longo prazo)
  ### Versionameto
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
  ### IDE
