@@ -135,19 +135,22 @@ yarn install
 yarn start
 ```
 
-4. Acesse `http://localhost:3000/` e navegue pelo site
+4. Baixar o aplicativo Expo no seu Android ou IOS para rodar a aplicação
+  
+5. Apontar a câmera de dentro do aplicativo Expo para o QRCode que aparece no terminal para que o App rode.
+ 
 
-:warning: 5. Trocar URL do repositorio remoto (caso necessário)
+:warning: 6. Trocar URL do repositorio remoto (caso necessário)
 
-  5.1 Ver qual o repositorio atual
+  6.1 Ver qual o repositorio atual
 ```
 git remote -v
 ```
-  5.2 Mudar a URL do repositorio remoto
+  6.2 Mudar a URL do repositorio remoto
 ```
 git remote set-url origin <LinkDoNovoRepositorio>
 ```
-  5.3 Verifique se a mudança foi realizada
+  6.3 Verifique se a mudança foi realizada
 ```
 git remote -v
 ```
