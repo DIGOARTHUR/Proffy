@@ -130,34 +130,36 @@ EXEMPLO
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/personWebsite.git
+git clone https://github.com/DIGOARTHUR/Proffy
 ```
 
-2. Instalar dependências
+2. Acessar o diretório web_frontend
+
+3. Instalar dependências
 
 ```
 yarn install
 ```
 
-3. Rodar aplicativo
+4. Rodar aplicativo
 
 ```
 yarn dev
 ```
 
-4. Acesse `http://localhost:3000/` e navegue pelo site
+5. Acesse `http://localhost:3000/` e navegue pelo site
 
-:warning: 5. Trocar URL do repositorio remoto (caso necessário)
+:warning: 6. Trocar URL do repositorio remoto (caso necessário)
 
-  5.1 Ver qual o repositorio atual
+  6.1 Ver qual o repositorio atual
 ```
 git remote -v
 ```
-  5.2 Mudar a URL do repositorio remoto
+  6.2 Mudar a URL do repositorio remoto
 ```
 git remote set-url origin <LinkDoNovoRepositorio>
 ```
-  5.3 Verifique se a mudança foi realizada
+  6.3 Verifique se a mudança foi realizada
 ```
 git remote -v
 ```
