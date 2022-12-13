@@ -32,6 +32,7 @@ EXEMPLO
    <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
    <a href="https://pt-br.reactjs.org/"><img  alt="ReactNative"  width="50" height="53" src="https://user-images.githubusercontent.com/59892368/207154754-cadc011e-746a-49cf-9815-d42eece3d5be.png"><a/>
+    <a href="https://expo.dev"><img  alt="Expo"  width="50" height="53" src="https://user-images.githubusercontent.com/59892368/207325753-decb4ee8-85d0-4fc4-accd-c0cc7fb39f27.svg"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
    
     
