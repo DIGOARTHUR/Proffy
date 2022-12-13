@@ -120,7 +120,7 @@ EXEMPLO
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/personWebsite.git
+git clone https://github.com/DIGOARTHUR/Proffy.git
 ```
 
 2. Instalar dependências
@@ -132,7 +132,7 @@ yarn install
 3. Rodar aplicativo
 
 ```
-yarn dev
+yarn start
 ```
 
 4. Acesse `http://localhost:3000/` e navegue pelo site
