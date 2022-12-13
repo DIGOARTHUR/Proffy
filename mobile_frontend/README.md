@@ -64,11 +64,12 @@ EXEMPLO
 
 <div >
 
-<img  src="https://user-images.githubusercontent.com/59892368/207155868-c6c0a5eb-9953-4a29-9ff3-74c16883a399.jpeg" width="265" height="600"> 
-<img  src="https://user-images.githubusercontent.com/59892368/207155862-cfffc759-8dea-42b5-a747-ff2b62599a8b.jpeg" width="265" height="600">
-  <img  src="https://user-images.githubusercontent.com/59892368/207155871-e4ece226-ae7c-4829-8dd3-24134e182e5c.jpeg" width="265" height="600">
-    <img  src="https://user-images.githubusercontent.com/59892368/207155877-dedd8e9a-cb5a-4c35-bfc8-6921c4390169.jpeg" width="265" height="600">
-  <img  src="https://user-images.githubusercontent.com/59892368/207155874-9fb66bea-dcbb-4079-8a36-3acc290ea51f.jpeg" width="265" height="600">
+<img  src="https://user-images.githubusercontent.com/59892368/207409333-aa9e62d4-bebb-46c6-a52d-c9542f442ca4.png" width="260" height="520"> 
+   <img  src="https://user-images.githubusercontent.com/59892368/207409797-75bd7ca6-ec34-40d5-b8dd-12ab46b22738.png" width="260" height="520">
+<img  src="https://user-images.githubusercontent.com/59892368/207409361-41f46e11-e5e5-42f6-8723-860170d15093.png" width="260" height="520">
+  <img  src="https://user-images.githubusercontent.com/59892368/207409378-40838ef7-6092-4374-8af1-15f431ab2fd0.png" width="260" height="520">
+    <img  src="https://user-images.githubusercontent.com/59892368/207409389-76009aaf-9a45-4095-a1cd-c3b98ac837cb.png" width="260" height="520">
+
   
 </div> 
 
@@ -88,6 +89,10 @@ EXEMPLO
   * [`styles.ts`](https://reactnative.dev/docs/stylesheet)(StyleSheet é uma abstração semelhante ao CSS)
 
 ### Framework / Lib
+   
+ * <a href="https://expo.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-Expo-/?logo=Expo&logoColor=white&color=lightgrey)<a/>  
+   * `Estrutura` (Expo é um framework que facilita muito o desenvolvimento de Apps. É um conjunto de ferramentas e serviços construídos em torno de plataformas nativas e React Native que ajudam você a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript/TypeScript.)
+   * `Emulador no App`(https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)(Suporte para emular o aplicativo por meio da própria plataforma)  
   
 * <a href="https://reactnative.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
@@ -97,8 +102,11 @@ EXEMPLO
     * [`@react-navigation/native`](https://reactnative.dev/docs/navigation) (Biblioteca - O React Navigation é composto de alguns utilitários principais e esses são usados pelos navegadores para criar a estrutura de navegação em seu aplicativo.)
     * [`@react-navigation/stack`](https://reactnative.dev/docs/navigation#react-navigation) (Biblioteca utilizada para definir rotas das páginas em formato de pilhas) 
   * [`Async Storage`](https://react-native-async-storage.github.io/async-storage/) (Biblioteca - O Async Storage é uma ferramenta para React-Native que permite ao aplicativo gerenciar dados localmente e a longo prazo)
+   
+   
  ### Versionameto
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+  
  ### IDE
  <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
    
