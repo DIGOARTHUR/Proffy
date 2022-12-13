@@ -91,8 +91,8 @@ EXEMPLO
 ### Framework / Lib
    
  * <a href="https://expo.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-Expo-/?logo=Expo&logoColor=white&color=lightgrey)<a/>  
-   * `Estrutura` (Expo é um framework que facilita muito o desenvolvimento de Apps. É um conjunto de ferramentas e serviços construídos em torno de plataformas nativas e React Native que ajudam você a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript/TypeScript.)
-   * `Emulador no App`(https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)(Suporte para emular o aplicativo por meio da própria plataforma)  
+   * [`Estrutura`](https://expo.dev) (Expo é um framework que facilita muito o desenvolvimento de Apps. É um conjunto de ferramentas e serviços construídos em torno de plataformas nativas e React Native que ajudam você a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript/TypeScript.)
+   * [`Emulador no App`](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)(Suporte para emular o aplicativo por meio da própria plataforma)  
   
 * <a href="https://reactnative.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
