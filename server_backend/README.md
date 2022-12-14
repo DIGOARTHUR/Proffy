@@ -88,8 +88,8 @@ EXEMPLO
   * [`NodeJS`](https://reactjs.org/docs/components-and-props.html) ( É um Software baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web)
     * [`Express`]()( Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web)
  
-* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-Insominia-/?logo=Insomnia&logoColor=white&color=blueviolet)<a/> 
-  * [`Insomnia`](https://insomnia.rest/download)( Insomnia é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC)
+* <a href="https://insomnia.rest"> ![Alt ou título da imagem](https://img.shields.io/badge/-Insominia-/?logo=Insomnia&logoColor=white&color=blueviolet)<a/> 
+  * [`Insomnia`](https://insomnia.rest)( Insomnia é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC)
      
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-SQLite-/?logo=SQLite&logoColor=white&color=gray)<a/> 
     * [`SQLite`](https://insomnia.rest/download)( SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido.) 
