@@ -49,16 +49,11 @@ EXEMPLO
   
 
 
-<!------------------------------------LAYOUT -->
-
-
-
+<!------------------------------------API -->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/207826327-6a06202f-d42c-4413-9ca0-7dc425db4e30.png">  API <!---write here : demonstration of the application layout.  -->
 
-
-
-  
+ 
 ## EndPoints
 
 | Requisição | Parâmetro| Endpoints                                  | Função
@@ -68,6 +63,16 @@ EXEMPLO
 |    POST    | Body      | http://localhost:3333/classes              | Adiciona um novo educador {name,avatar,whatsapp,bio...}
 |    GET     | Query     | http://localhost:3333/classes              | Lista educadores a partir dos dados passados como {subject,weekday,time}
   
+
+
+<!------------------------------------Banco de dados -->
+
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/207851896-563ca89c-4f1c-4db3-b2d8-b584165e94e9.png"> Banco de Dados<!---write here : demonstration of the application layout.  -->
+  
+> O banco de dados utilizado foi o [`SQLite`](https://insomnia.rest/download), pela a versatilidade de inicialização e seguimento do projeto passado pela a Rockeseat.   
+* [`FileBD`](https://github.com/DIGOARTHUR/Proffy/blob/master/server_backend/src/database/database.sqlite)
+
+💡 Acesse os dados contidos no FileDB em [`sqlite-viewer`](https://inloop.github.io/sqlite-viewer/)
   
   
   
