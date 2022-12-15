@@ -54,13 +54,19 @@ EXEMPLO
 
 
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
-## FIGMA 
-<a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?t=29god494M5s13sIQ-0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/207826327-6a06202f-d42c-4413-9ca0-7dc425db4e30.png">  API <!---write here : demonstration of the application layout.  -->
 
 
-    
-## ROUTERS
+
+  
+## EndPoints
+
+| Requisição | Parâmetro| Endpoints                                  | Função
+|------------|----------|--------------------------------------------|--------------
+|    GET     |          | http://localhost:3333/connections          | Obtém o número de conexões a partir total de dados contido no Banco de Dados.
+|    POST    | Body      | http://localhost:3333/connections          | Adiciona uma nova conexão a partir do ID do professor selecionado, clicado na Aplicação.
+|    POST    | Body      | http://localhost:3333/classes              | Adiciona um novo educador {name,avatar,whatsapp,bio...}
+|    GET     | Query     | http://localhost:3333/classes              | Lista educadores a partir dos dados passados como {subject,weekday,time}
   
   
   
