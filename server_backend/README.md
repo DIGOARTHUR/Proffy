@@ -71,7 +71,12 @@ EXEMPLO
   
 > O banco de dados utilizado foi o [`SQLite`](https://insomnia.rest/download), pela a versatilidade de inicialização e seguimento do projeto passado pela a Rockeseat.   
 * [`FileBD`](https://github.com/DIGOARTHUR/Proffy/blob/master/server_backend/src/database/database.sqlite)
-
+  * path: 
+       ```
+         └── src
+               ├── database 
+                           ├── database.sqlite
+       ```
 💡 Acesse os dados contidos no FileDB em [`sqlite-viewer`](https://inloop.github.io/sqlite-viewer/)
   
   
