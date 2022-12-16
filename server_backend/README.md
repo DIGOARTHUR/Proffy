@@ -92,7 +92,7 @@ EXEMPLO
    * [`Split`](https://www.devmedia.com.br/javascript-split-dividindo-separando-strings/39254)(Método que quebra strings, separa a partir de um caracter.)
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Typescript-/?logo=TypeScript&logoColor=white&color=blue)<a/>
    * [`Tipagem`](https://www.typescriptlang.org)(Por meio do TypeScript é possivel tipar a linguagem JavaScript)
-     * [`Interface`](https://www.typescriptlang.org/docs/handbook/interfaces.html)(É uma forma de estruturar a tipagem de um conjunto de dados e denominá-la no parâmetro da função, por exemplo)
+     * [`Interface`](https://www.typescriptlang.org/docs/handbook/2/objects.html)(É uma forma de estruturar a tipagem de um conjunto de dados e denominá-la no parâmetro da função, por exemplo)
      
      
 
