@@ -91,8 +91,8 @@ EXEMPLO
    * [`Async/Await`](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?gclid=CjwKCAiAy_CcBhBeEiwAcoMRHP057AHVSafGTByvpQ_RuriqgKf3g4LI7SW7FXz2Pnbmp-p47_V9lBoChU0QAvD_BwE)(Método para se trabalhar com processo assíncronos. Aguarda o recebimento de dados vindo de uma API.)
    * [`Split`](https://www.devmedia.com.br/javascript-split-dividindo-separando-strings/39254)(Método que quebra strings, separa a partir de um caracter.)
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Typescript-/?logo=TypeScript&logoColor=white&color=blue)<a/>
-   * [`Tipagem`]()()
-     * [`Interface`]()()
+   * [`Tipagem`](https://www.typescriptlang.org)(Por meio do TypeScript é possivel tipar a linguagem JavaScript)
+     * [`Interface`](https://www.typescriptlang.org/docs/handbook/interfaces.html)(É uma forma de estruturar a tipagem de um conjunto de dados e denominá-la no parâmetro da função, por exemplo)
      
      
 
