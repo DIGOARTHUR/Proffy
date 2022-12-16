@@ -75,9 +75,9 @@ EXEMPLO
        ```
          └── src
                ├── database 
-                           ├── database.sqlite
+                         ├── database.sqlite
        ```
-💡 Acesse os dados contidos no FileDB em [`sqlite-viewer`](https://inloop.github.io/sqlite-viewer/)
+💡 Acesse os dados direto do arquivo contidos no FileDB em [`sqlite-viewer`](https://inloop.github.io/sqlite-viewer/). Faça o download e insira na 
   
   
   
@@ -88,8 +88,8 @@ EXEMPLO
 ### Lógica & Superset 
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
    * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
-   * [`Async/Await`]()()
-   * [`Split`]()()
+   * [`Async/Await`](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?gclid=CjwKCAiAy_CcBhBeEiwAcoMRHP057AHVSafGTByvpQ_RuriqgKf3g4LI7SW7FXz2Pnbmp-p47_V9lBoChU0QAvD_BwE)(Método para se trabalhar com processo assíncronos. Aguarda o recebimento de dados vindo de uma API.)
+   * [`Split`](https://www.devmedia.com.br/javascript-split-dividindo-separando-strings/39254)(Método que quebra strings, separa a partir de um caracter.)
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Typescript-/?logo=TypeScript&logoColor=white&color=blue)<a/>
    * [`Tipagem`]()()
      * [`Interface`]()()
