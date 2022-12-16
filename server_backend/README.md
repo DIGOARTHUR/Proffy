@@ -103,14 +103,15 @@ EXEMPLO
 * <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.js&logoColor=white&color=green)<a/> 
   * [`NodeJS`](https://reactjs.org/docs/components-and-props.html) ( É um Software baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web)
     * [`Express`]()( Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web)
- 
-* <a href="https://insomnia.rest"> ![Alt ou título da imagem](https://img.shields.io/badge/-Insominia-/?logo=Insomnia&logoColor=white&color=blueviolet)<a/> 
-  * [`Insomnia`](https://insomnia.rest)( Insomnia é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC)
      
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-SQLite-/?logo=SQLite&logoColor=white&color=gray)<a/> 
     * [`SQLite`](https://insomnia.rest/download)( SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido.) 
       * [`sqlite3`](https://insomnia.rest/download)( É uma bliblioteca para que o NodeJS  consiga se conectar com o banco Sqlite.)  
       * [`knex`](https://insomnia.rest/download)( É uma biblioteca que funciona como um query builder, ele permite escrever as querys em JavaScript .) 
+     
+* <a href="https://insomnia.rest"> ![Alt ou título da imagem](https://img.shields.io/badge/-Insominia-/?logo=Insomnia&logoColor=white&color=blueviolet)<a/> 
+  * [`Insomnia`](https://insomnia.rest)( Insomnia é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC)
+     
      
  ### Versionameto
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
