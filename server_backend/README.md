@@ -48,6 +48,15 @@ EXEMPLO
      
 <hr>
   
+  
+   <!------------------------------------SUMMARY-->
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend#--api-">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend#-banco-de-dados"> Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend#-banco-de-dados"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend#-banco-de-dados">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Proffy/tree/master/server_backend#documentação">Documentação (SWAGGER)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>  
 
 
 <!------------------------------------API -->
@@ -112,6 +121,9 @@ EXEMPLO
      
 * <a href="https://insomnia.rest"> ![Alt ou título da imagem](https://img.shields.io/badge/-Insominia-/?logo=Insomnia&logoColor=white&color=blueviolet)<a/> 
   * [`Insomnia`](https://insomnia.rest)( Insomnia é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC)
+  
+* <a href="https://swagger.io"> ![Alt ou título da imagem](https://img.shields.io/badge/-Swagger-/?logo=Swagger&logoColor=white&color=success)<a/> 
+  * [`Swagger`](https://swagger.io )(É um software que auxilia na Documentação da API construída, podendo também auxiliar na descrição, consumo e visualização de serviços.)
      
      
  ### Versionameto
@@ -147,37 +159,9 @@ yarn start
 ```
 ✅ Pronto! API já está rodando.
         
-## Documentação
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/208256482-0acbabaa-2b6c-474f-9602-adbdac14b0ed.svg"> Documentação
 
-💡 5. Acesse a Documentação em [`Swagger`](http://localhost:3333/api-docs/#/) para a descrição, consumo e visualização dos dados. 
-
-:warning: 6. Trocar URL do repositorio remoto (caso necessário)
-
-  6.1 Ver qual o repositorio atual
-```
-git remote -v
-```
-  6.2 Mudar a URL do repositorio remoto
-```
-git remote set-url origin <LinkDoNovoRepositorio>
-```
-  6.3 Verifique se a mudança foi realizada
-```
-git remote -v
-```
-
-
-
-
-
-
-
-
-
-
- 
- 
-
+💡  Acesse a Documentação em [`Swagger`](http://localhost:3333/api-docs/#/) para a descrição, consumo e visualização dos dados. 
 
 
 
@@ -188,10 +172,10 @@ git remote -v
 
 
 
+<!---
+ Funcionalidades
 
-# Funcionalidades
-
-## Conexões
+ Conexões
 
 - Rota para listar o total de conexões realizadas;
 - Rota para criar uma nova conexão;
@@ -200,3 +184,5 @@ git remote -v
 - Rota para criar uma aula;
 - Rota para listar aulas;
   - Filtrar por matéria, dia da semana, e horário; 
+  
+  -->
