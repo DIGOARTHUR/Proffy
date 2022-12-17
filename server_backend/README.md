@@ -42,8 +42,9 @@ EXEMPLO
  #### Tools:
  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
-  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>
-    <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/207575706-bfbacb34-8941-4f78-ab3b-e3647c0eccba.png"><a/>  
+  <a href="https://yarnpkg.com"><img  alt="Yarn"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>
+    <a href="https://insomnia.rest"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/207575706-bfbacb34-8941-4f78-ab3b-e3647c0eccba.png"><a/> 
+     <a href="https://swagger.io"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/208250596-2701702f-caf8-4ca7-9847-32b35ea47cd3.svg"><a/>
      
 <hr>
   
@@ -53,15 +54,15 @@ EXEMPLO
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/207826327-6a06202f-d42c-4413-9ca0-7dc425db4e30.png">  API <!---write here : demonstration of the application layout.  -->
 
- 
 ## EndPoints
 
 | Requisição | Parâmetro| Endpoints                                  | Função
 |------------|----------|--------------------------------------------|--------------
-|    GET     |          | http://localhost:3333/connections          | Obtém o número de conexões a partir total de dados contido no Banco de Dados.
+|    POST    | Body      | http://localhost:3333/classes              | Adiciona uma nova aula a partir dos dados do Educador {name,avatar,whatsapp,bio...}, Matéria e Horário
+|    GET     | Query     | http://localhost:3333/classes              | Lista as aulas partir dos dados passados como {Matéria, Data e Horário}
 |    POST    | Body      | http://localhost:3333/connections          | Adiciona uma nova conexão a partir do ID do professor selecionado, clicado na Aplicação.
-|    POST    | Body      | http://localhost:3333/classes              | Adiciona um novo educador {name,avatar,whatsapp,bio...}
-|    GET     | Query     | http://localhost:3333/classes              | Lista educadores a partir dos dados passados como {subject,weekday,time}
+|    GET     |          | http://localhost:3333/connections          | Obtém o número de conexões a partir total de dados contido no Banco de Dados.
+
   
 
 
@@ -131,7 +132,7 @@ EXEMPLO
 git clone https://github.com/DIGOARTHUR/Proffy
 ```
 
-2. Acessar o diretório web_frontend
+2. Acessar o diretório server_backend
 
 3. Instalar dependências
 
@@ -139,13 +140,16 @@ git clone https://github.com/DIGOARTHUR/Proffy
 yarn install
 ```
 
-4. Rodar aplicativo
+4. Rodar aplicação
 
 ```
-yarn dev
+yarn start
 ```
+✅ Pronto! API já está rodando.
+        
+## Documentação
 
-5. Acesse `http://localhost:3000/` e navegue pelo site
+💡 5. Acesse a Documentação em [`Swagger`](http://localhost:3333/api-docs/#/) para a descrição, consumo e visualização dos dados. 
 
 :warning: 6. Trocar URL do repositorio remoto (caso necessário)
 
