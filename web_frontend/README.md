@@ -160,8 +160,11 @@ yarn install
 yarn dev
 ```
 
-5. Acesse `http://localhost:3000/` e navegue pelo site
+5. Acesse `http://localhost:3000/`
 
+✅ Pronto! Já pode navegar pela aplicação.
+
+<!--
 :warning: 6. Trocar URL do repositorio remoto (caso necessário)
 
   6.1 Ver qual o repositorio atual
@@ -176,6 +179,7 @@ git remote set-url origin <LinkDoNovoRepositorio>
 ```
 git remote -v
 ```
+-->
 
 
 
