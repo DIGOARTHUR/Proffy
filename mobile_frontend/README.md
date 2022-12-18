@@ -152,7 +152,7 @@ yarn start
   
 5. Apontar a câmera de dentro do aplicativo Expo para o QRCode que aparece no terminal para que o App rode.
  
-
+<!--
 :warning: 6. Trocar URL do repositorio remoto (caso necessário)
 
   6.1 Ver qual o repositorio atual
@@ -167,7 +167,7 @@ git remote set-url origin <LinkDoNovoRepositorio>
 ```
 git remote -v
 ```
-
+-->
 
 
 
