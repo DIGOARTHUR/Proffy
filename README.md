@@ -2,8 +2,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/proffy)
 ![GitHub](https://img.shields.io/github/license/digoarthur/proffy)
  
- 
- <!------------------------------------PROJECT ICON-->
+  <!------------------------------------BANNER PROJECT-->
+
+![image](https://user-images.githubusercontent.com/59892368/208304977-9922fa65-6aa8-4046-9808-645ecb0cee4c.png)
+ <!------------------------------------SHIELDS PROJECT-->
   
    
    <h1 align="center">
