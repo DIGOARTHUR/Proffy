@@ -1,12 +1,13 @@
+  
+    <!------------------------------------BANNER PROJECT-->
+
+![image](https://user-images.githubusercontent.com/59892368/208304977-9922fa65-6aa8-4046-9808-645ecb0cee4c.png)
+  
   <!------------------------------------SHIELDS PROJECT-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/proffy)
 ![GitHub](https://img.shields.io/github/license/digoarthur/proffy)
  
-  <!------------------------------------BANNER PROJECT-->
-
-![image](https://user-images.githubusercontent.com/59892368/208304977-9922fa65-6aa8-4046-9808-645ecb0cee4c.png)
- <!------------------------------------SHIELDS PROJECT-->
-  
+   <!------------------------------------PROJECT ICON-->
    
    <h1 align="center">
   <img width="200"  alt="Dashgo" title="Dashgo" src="https://user-images.githubusercontent.com/59892368/197890504-1d2fd524-b380-47bb-8d00-d78d4e69c932.png" />
