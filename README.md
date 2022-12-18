@@ -9,7 +9,7 @@
   
    
    <h1 align="center">
-  <img  alt="Dashgo" title="Dashgo" src="https://user-images.githubusercontent.com/59892368/197890504-1d2fd524-b380-47bb-8d00-d78d4e69c932.png" />
+  <img width="200"  alt="Dashgo" title="Dashgo" src="https://user-images.githubusercontent.com/59892368/197890504-1d2fd524-b380-47bb-8d00-d78d4e69c932.png" />
  </h1>
    
 
