@@ -2,6 +2,7 @@
 import { Request, Response } from 'express';
 import db from '../database/connection';
 import convertHourToMinutes from '../utils/convertHourToMinutes';
+import convertWeek_dayToNumber from '../utils/convertWeek_dayToNumber';
 
 interface ScheduleItem {
     week_day: string,
@@ -13,9 +14,9 @@ export default class ClassesController {
 
     async index(request: Request, response: Response) {
         const filters = request.query;
-
+       
         const subject = filters.subject as string;
-        const week_day = filters.week_day as string;
+        const week_day = convertWeek_dayToNumber(filters.week_day as string);
         const time = filters.time as string;
 
         if (!filters.week_day || !filters.subject || !filters.time) {
@@ -55,6 +56,7 @@ export default class ClassesController {
             schedule
         } = request.body;
 
+        
 
         const trx = await db.transaction(); // usado para que seja feita as operação de Insert, por exemplo, de forma conjunta.
 
@@ -65,7 +67,7 @@ export default class ClassesController {
                 whatsapp,
                 bio,
             });
-
+           
             const user_id = insertedUserIds[0];
 
             const insertedClassesIds = await trx('classes').insert({
@@ -79,7 +81,7 @@ export default class ClassesController {
             const classSchedule = schedule.map((scheduleItem: ScheduleItem) => {
                 return {
                     class_id,
-                    week_day: scheduleItem.week_day,
+                    week_day:convertWeek_dayToNumber(scheduleItem.week_day),
                     from: convertHourToMinutes(scheduleItem.from),
                     to: convertHourToMinutes(scheduleItem.to)
                 }

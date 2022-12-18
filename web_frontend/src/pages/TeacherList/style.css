@@ -1,79 +1,64 @@
-
-/***********************************/
-        /*TELA  < 700PX*   MOBILE/ 
-/***********************************/
-#page-teacher-list{
+#page-teacher-list {
     width: 100vw;
     height: 100vh;
-}
-
-
-#search-teachers{
-    margin-top: 3.2rem;
-}
-
-
-
+  }
   
-
-#search-teachers button{
+  #search-teachers {
+    margin-top: 3.2rem;
+  }
+  
+  #search-teachers label {
+    color: var(--color-text-in-primary);
+  }
+  
+  #search-teachers button {
     width: 100%;
-    border-radius: 0.8rem;
     height: 5.6rem;
+    background: var(--color-secundary);
     color: var(--color-button-text);
-    background: var( --color-secundary);
     border: 0;
+    border-radius: 0.8rem;
     cursor: pointer;
     font: 700 1.6rem Archivo;
     display: flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    transition: 0.5s;
+    transition: background-color 0.2s;
     margin-top: 3.2rem;
-}
-
-#search-teachers button:hover{
-    background: var(--color-secundary-dark)
-}
-
-#search-teachers label{
-    color: var(--color-text-in-primary)
-}
-
-
-#page-teacher-list main{
+  }
+  
+  #search-teachers button:hover {
+    background: var(--color-secundary-dark);
+  }
+  
+  #page-teacher-list main {
     margin: 3.2rem auto;
     width: 90%;
-
-}
-
-
-/***********************************/
-    /*TELA  >= 700PX* DESKTOP /
-/***********************************/
-
-@media(min-width:700px){
+  }
   
-    #search-teachers{
-        display: grid;
-        grid-template-columns: repeat(4,1fr);
-        column-gap: 16px;
-        position: absolute;
-        bottom: -28px;
-        justify-content:center;
-        align-items:center;
+  @media (min-width: 700px) {
+    #page-teacher-list {
+      max-width: 100vw;
     }
-
-    #search-teachers .select-block + .select-block,
-    #search-teachers .input-block + .input-block {
-        margin-top:0rem;
-     }
-
-     #page-teacher-list main{
-         padding: 3.2rem 0;
-         max-width: 740px;
-         margin: 0 auto;
-     }
-
-}
+  
+    #search-teachers {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      column-gap: 16px;
+      position: absolute;
+      bottom: -28px;
+    }
+  
+    #search-teachers .input-block + .input-block,
+    #search-teachers .select-block + .select-block {
+      margin-top: 0;
+    }
+  
+    #page-teacher-list main {
+      padding: 3.2rem 0;
+      max-width: 740px;
+      margin: 0 auto;
+    }
+    
+  }

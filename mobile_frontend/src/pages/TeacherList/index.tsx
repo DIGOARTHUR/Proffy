@@ -44,12 +44,13 @@ export function TeacherList() {
   }
 
   async function _handleFiltersSubmit() {
-    const response = await api.get('classes', {
-      params: {
-        subject,
-        week_day,
-        time,
-      }
+
+      const response = await api.get('classes', {
+        params: {
+            subject,
+            week_day,
+            time,
+        }
     });
     setFilterVisible(!isFilterVisible)
     setTeachers(response.data);

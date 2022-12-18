@@ -1,0 +1,186 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API - Proffy NLW#2",
+        "description": "Esta é a documentação para API do evento NLW#2. Aqui será feitas requisições responsáveis pelas Aulas e Conexões",
+        "contact": {
+            "url": "https://digoarthur.vercel.app"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://localhost:3333/",
+            "description": ""
+        }
+    ],
+    "paths": {
+        "/classes": {
+            "post": {
+                "summary": "Cadastro de Aulas",
+                "description": "Esta rota é responsável por cadastrar os dados de uma nova aula a partir de um Educador, Matéria e Data",
+                "tags": [
+                    "Classes"
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Educator"
+                            },
+                            "examples": {
+                                "Educador": {
+                                    "value": {
+                                        "name": "Juca de Oliveira",
+                                        "avatar": "https://avatars.githubusercontent.com/u/59892368?v=4",
+                                        "whatsapp": "+351 985 885 887",
+                                        "bio": "Leciono aulas de Matemática há 10 anos",
+                                        "subject": "Matemática",
+                                        "cost": 80,
+                                        "schedule": [
+                                            {
+                                                "week_day": 1,
+                                                "from": "8:00",
+                                                "to": "12:00"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "400": {
+                        "description": "Unexpected erro while creating new class"
+                    },
+                    "201": {
+                        "description": "Aula cadastrada com sucesso!"
+                    }
+                }
+            },
+            "get": {
+                "summary": "Consultar Aulas",
+                "description": "Esta rota é responsável por consultar as aulas disponíveis a partir da Matéria, Dia da Semana e Horário",
+                "tags": [
+                    "Classes"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "subject",
+                        "required": true,
+                        "type": "string"
+                    },
+                    {
+                        "in": "query",
+                        "name": "week_day",
+                        "required": true,
+                        "type": "number"
+                    },
+                    {
+                        "in": "query",
+                        "name": "time",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "400": {
+                        "description": "Missing filters to search classes"
+                    }
+                }
+            }
+        },
+        "/connections": {
+            "post": {
+                "summary": "Registro de conexão",
+                "description": "Esta rota é responsável por registrar uma conexão a partir do momento que um aluno entra em contato com um Educador. O registro é feito a partir do id correpondente.",
+                "tags": [
+                    "Connections"
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Connections"
+                            },
+                            "examples": {
+                                "Educador": {
+                                    "value": {
+                                        "user_id":3
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                
+            },
+            "get": {
+                "summary": "Obtenção do valor total de conexões",
+                "description": "Esta rota é responsável por retornar o número de conexões correspondente a todos os educadores existentes na aplicação",
+                "tags": [
+                    "Connections"
+                ],
+                "responses": {
+                    "400": {
+                        "description": "Missing filters to search classes"
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Educator": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "avatar": {
+                        "type": "string"
+                    },
+                    "whatsapp": {
+                        "type": "string"
+                    },
+                    "bio": {
+                        "type": "string"
+                    },
+                    "subject": {
+                        "type": "string"
+                    },
+                    "cost": {
+                        "type": "string"
+                    },
+                    "schedule": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "week_day": {
+                                    "type": "number"
+                                },
+                                "from": {
+                                    "type": "string"
+                                },
+                                "to": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Connections": {
+                "type": "object",
+                "properties": {
+                    "user_id": {
+                        "type": "number"
+                    }
+                }
+            }
+        }
+    }
+}
