@@ -61,12 +61,11 @@ EXEMPLO
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> 
+> Esta é a aplicação WEB. O acesso é feito pelos Browsers (Navegadores) seja em Desktops ou Mobiles.
+
+
 
 <!------------------------------------LAYOUT -->
-
-
-
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
 ## FIGMA 
