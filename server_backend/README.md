@@ -163,7 +163,9 @@ yarn start
 
 💡  Acesse a Documentação em [`Swagger`](http://localhost:3333/api-docs/#/) para a descrição, consumo e visualização dos dados. 
 
-
+|                             Documentação                             |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/208294815-0c2b39c0-fa71-4c71-a2cc-eaccbffea1cb.png) |
 
  
  
