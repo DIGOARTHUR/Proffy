@@ -62,7 +62,7 @@ EXEMPLO
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> 
+> Esta é a aplicação Mobile. É acessado por meio da ferramenta Expo para que possa rodar como um app de celular. Pode sim ser disponibilizado na Play Store. 
 
 <!------------------------------------LAYOUT -->
 
