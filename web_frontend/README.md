@@ -160,7 +160,7 @@ yarn install
 yarn dev
 ```
 
-5. Acesse `http://localhost:3000/`
+5. Acesse [`http://localhost:3000/`](http://localhost:3000/)
 
 ✅ Pronto! Já pode navegar pela aplicação.
 
