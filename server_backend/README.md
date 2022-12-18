@@ -59,6 +59,12 @@ EXEMPLO
 </p>  
 
 
+   <!------------------------------------DESCRIPTION-->
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
+> Esta é a "ponte" entre o Banco de Dados (Sqlite) e as aplicações Mobile e WEB. A API recebe, envia e trata dados pertinentes a cadastros e consultas.
+
+
+
 <!------------------------------------API -->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/207826327-6a06202f-d42c-4413-9ca0-7dc425db4e30.png">  API <!---write here : demonstration of the application layout.  -->
