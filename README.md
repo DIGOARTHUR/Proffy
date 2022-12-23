@@ -26,12 +26,12 @@
 
 -->
 
-  
+  NLW#02 - Rocketseat - Desenvolvi este projeto para aprender e aprimorar os princípios básicos do ReactJS: Componentes, Propriedades e Estado. Mas aqui também é abordado sobre conceitos e aplicação de APIs (NodeJS) e Mobile (ReactNative)
   
 <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso as Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos. E os alunos buscam a partir da matéria, data e horário quem está disponível.
+> Proffy, como foi chamado, é um projeto apresentado e desenvolvido no evento NLW#02 da Rocketseat. É uma plataforma base para acesso as Aulas particulares onde há mentoria para várias matérias do colegial, por exemplo. Aqui os professores se cadastram, disponibilizando opções de mentoria para os alunos. E os alunos buscam a partir da matéria, data e horário quem está disponível. Aqui é abordado princípios básicos do ReactJS: Componentes, Propriedades e Estado, mas também sobre conceitos e aplicação de APIs (NodeJS) e Mobile (ReactNative)
 
 <!------------------------------------PLATAFORMS-->
 
