@@ -26,7 +26,7 @@
 
 -->
 
-  NLW#02 - Rocketseat - Desenvolvi este projeto para aprender e aprimorar os princípios básicos do ReactJS: Componentes, Propriedades e Estado. Mas aqui também é abordado sobre conceitos e aplicação de APIs (NodeJS) e Mobile (ReactNative)
+
   
 <!------------------------------------DESCRIPTION-->
 
