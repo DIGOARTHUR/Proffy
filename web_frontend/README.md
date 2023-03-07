@@ -128,6 +128,9 @@ EXEMPLO
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
+### Gerenciador / Pacotes
+ <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+  * [`axios`](https://axios-http.com/docs/intro) (Biblioteca usada para executar requisições HTTP: get, delete, post, put, patch. )
   * [`react-router-dom`](https://v5.reactrouter.com/web/guides/quick-start) (Biblioteca utilizada para definir rodas das páginas construídas)
 
  ### Versionameto
