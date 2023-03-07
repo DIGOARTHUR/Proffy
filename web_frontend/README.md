@@ -28,11 +28,11 @@ EXEMPLO
 <p align="left">
 
 
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
-   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
-   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
-   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
+   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg"><a/>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762519-fc191098-1198-4668-9eb5-d0c1481da8c7.svg"><a/>
+   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
+   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
    
     
  <!---<a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663190-ed2a92d6-6853-4884-845e-e780bfc49b55.png"><a/>--->
@@ -40,12 +40,15 @@ EXEMPLO
   
 
 
+
  <!------------------------------------TOOLS-->
  #### Tools:
- <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
- <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
   <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>  
      
+
+
 <hr>
   
 
