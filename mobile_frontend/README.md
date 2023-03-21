@@ -95,20 +95,20 @@ EXEMPLO
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 ### Lógica 
-*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+ <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
    * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Método que executa uma iteração em uma array com retorno de outra array formatada, trabalhada de diversas formas.)
    
 ### Estilização 
-* <a href="https://reactnative.dev/docs/stylesheet"> ![Alt ou título da imagem](https://img.shields.io/badge/-StyleSheet-/?logo=TypeScript&logoColor=white&color=blue)<a/> 
+ <a href="https://reactnative.dev/docs/stylesheet"> ![Alt ou título da imagem](https://img.shields.io/badge/-StyleSheet-/?logo=TypeScript&logoColor=white&color=blue)<a/> 
   * [`styles.ts`](https://reactnative.dev/docs/stylesheet)(StyleSheet é uma abstração semelhante ao CSS)
 
 ### Framework / Lib
    
- * <a href="https://expo.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-Expo-/?logo=Expo&logoColor=white&color=lightgrey)<a/>  
+ <a href="https://expo.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-Expo-/?logo=Expo&logoColor=white&color=lightgrey)<a/>  
    * [`Estrutura`](https://expo.dev) (Expo é um framework que facilita muito o desenvolvimento de Apps. É um conjunto de ferramentas e serviços construídos em torno de plataformas nativas e React Native que ajudam você a desenvolver, construir, implantar e iterar rapidamente em aplicativos iOS, Android e web a partir da mesma base de código JavaScript/TypeScript.)
    * [`Emulador no App`](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)(Suporte para emular o aplicativo por meio da própria plataforma)  
   
-* <a href="https://reactnative.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
+ <a href="https://reactnative.dev"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactNative-/?logo=React&logoColor=white&color=9cf)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
